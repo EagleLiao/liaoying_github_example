@@ -1,4 +1,8 @@
+/*
+ * description:
+ */
 
+#include <iostream>
 
 class Hello
 {
@@ -9,4 +13,5 @@ public:
 
 private:
     int id;
+    std::string name;
 }
