@@ -1,7 +1,9 @@
-dkfjd
-dfkdjkfd
-f
-df
-d
-f
-df
+include "hello.h"
+
+
+
+
+Hello::Hello()
+{
+}
+
